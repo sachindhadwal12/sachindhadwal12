@@ -1,3 +1,4 @@
+![github-header-image.png](https://github.com/sachindhadwal12/sachindhadwal12/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sachin Dhadwal</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
